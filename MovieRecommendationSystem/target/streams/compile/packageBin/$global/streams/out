@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/movierecommendationsystem_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$$anonfun$loadMovieData$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$$anonfun$loadMovieData$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran[0m
+[0m[[0m[0mdebug[0m] [0m[0m	kiran/MovieSimilarities$$anonfun$computeCosineSimilarity$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kirannoolvi/Documents/Practice/Spark-Scala/MovieRecommendationSystem/target/scala-2.11/classes/kiran/MovieSimilarities$$anonfun$computeCosineSimilarity$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

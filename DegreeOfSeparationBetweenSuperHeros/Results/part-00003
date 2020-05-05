@@ -1,0 +1,51 @@
+
+RESULTS:
+
+Top 5 famous characters calculated using graphX are: 
+Top 1 famous hero: 
+	Super Hero ID: 859
+	Super Hero Name: CAPTAIN AMERICA
+Top 2 famous hero: 
+	Super Hero ID: 5306
+	Super Hero Name: SPIDER-MAN/PETER PAR
+Top 3 famous hero: 
+	Super Hero ID: 2664
+	Super Hero Name: IRON MAN/TONY STARK 
+Top 4 famous hero: 
+	Super Hero ID: 5716
+	Super Hero Name: THING/BENJAMIN J. GR
+Top 5 famous hero: 
+	Super Hero ID: 6306
+	Super Hero Name: WOLVERINE/LOGAN 
+
+********************************************
+
+********************************************
+
+Top 5 famous characters calculated without using graphX are: 
+Top 1 famous hero: 
+	Super Hero ID: 859
+	Super Hero Name: CAPTAIN AMERICA
+Top 2 famous hero: 
+	Super Hero ID: 5306
+	Super Hero Name: SPIDER-MAN/PETER PAR
+Top 3 famous hero: 
+	Super Hero ID: 2664
+	Super Hero Name: IRON MAN/TONY STARK 
+Top 4 famous hero: 
+	Super Hero ID: 5716
+	Super Hero Name: THING/BENJAMIN J. GR
+Top 5 famous hero: 
+	Super Hero ID: 6306
+	Super Hero Name: WOLVERINE/LOGAN 
+
+********************************************
+
+********************************************
+
+Starting BFS from the super hero: SPIDER-MAN/PETER PAR
+We have reached the target super hero: WOLVERINE/LOGAN 
+Time taken to reach from the super hero 'SPIDER-MAN/PETER PAR' to 'WOLVERINE/LOGAN ' is 307 milliseconds
+
+Distance of separation between the Super Hero's 'SPIDER-MAN/PETER PAR' and 'WOLVERINE/LOGAN ' is 1
+
